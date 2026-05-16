@@ -24,7 +24,7 @@ This repository documents a hands-on technical lab focused on designing, segment
 ### 3. Infrastructure as Code (IaC) Extraction
 * **ARM Template Generation:** Successfully extracted the complete deployment blueprint from the Azure Resource Manager (ARM).
 * **Declarative Configuration:** Maintained isolated `template.json` and `parameters.json` structures, validating the environment's repeatability and modular automation blueprints.
-
+* **Source Code:** Review the complete blueprint directly in the [template.json](./template.json) file included in this repository.
 ---
 
 ## 📉 Governance & Cost Management
