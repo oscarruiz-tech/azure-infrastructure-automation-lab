@@ -15,6 +15,9 @@ This repository documents a hands-on technical lab focused on designing, segment
   * `FrontendSubnet`: `10.0.0.0/26` (64 IP addresses)
   * `BackendSubnet`: `10.0.0.64/26` (64 IP addresses)
   * `DatabaseSubnet`: `10.0.0.128/26` (64 IP addresses)
+#### 📊 Architectural Diagram & Subnet Segmentation
+<img width="1910" height="1064" alt="image_36f2dc" src="https://github.com/user-attachments/assets/da6c6c30-f8d3-46d0-8426-93ba3213db24" />
+
 
 ### 2. Backend Compute Deployment & Hardening
 * **Instance Provisioning:** Deployed an enterprise-grade virtual machine instance running **Ubuntu Server 24.04 LTS**.
